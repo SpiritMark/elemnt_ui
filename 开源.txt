@@ -1,0 +1,65 @@
+美人鱼
+mall
+favorites-web 
+community
+mall-swarm
+onemall 
+litemall 
+ShopXO
+xmall 
+newbee-mall
+微人事
+Cloud-Platform
+litemall
+jeeSpringCloud
+zscat_sw
+Roses
+华夏ERP
+springboot-plus
+spring-boot-pay
+spring-boot-seckill
+ bootshiro
+open-capacity-platform
+V部落
+悟空CRM
+paascloud-master
+Java 快速开发平台 MCMS
+快速开发框架 ThinkGem
+iBase4J
+企业级快速开发脚手架slife
+文件文档在线预览file-online-preview
+微服务化开发平台ace-security
+pig ：  https://gitee.com/log4j/pig
+zheng:https://gitee.com/shuzheng/zheng
+SpringBlade 
+http://www.jeeplus.org/blog/case/page/1
+
+
+
+
+
+
+
+
+
+
+面试 :   看书+ 看视频 + 看博客 +看官网 
+
+你全力以赴 ， 尽力而为和全力以赴是不一样 
+
+1.JavaGuide: 一份涵盖大部分 Java 程序员所需要掌握的核心知识。
+2.CS-Notes: 技术面试必备基础知识
+3.advanced-java: 涵盖高并发、分布式、高可用、微服务
+4.miaosha:秒杀系统设计与实现
+5.architect-awesome:后端架构师技术图谱
+6.toBeTopJavaer:Java工程师成神之路
+7.technology-talk:Java生态圈常用技术
+8.JavaFamily：互联网一线大厂面试指南
+9.JCSprout：处于萌芽的Java核心知识库
+10.fullstack-tutorial:全栈学习
+11.JGrowing:Java 成长路线，但学到不仅仅是 Java
+12.3y:从Java基础、JavaWeb基础到常用的框架再到面试题都有完整的教程，几乎涵盖了Java后端必备的知识点
+13.interview_internal_reference:2019年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+14.effective-java-3rd-chinese:Effective Java中文版（第3版），Java 四大名著之一，本书一共包含90个条目，每个条目讨论Java程序设计中的一条规则。这些规则反映了最有经验的优秀程序员在实践中常用的一些有益的做法。
+15.《OnJava8》：又名《Java编程思想》第5版， Java 四大名著之一。
+
